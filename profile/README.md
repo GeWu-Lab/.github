@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the official account of GeWu-Lab. GeWu-Lab is a research group focusing on multimodal perception and learning, we will post/release the source code/resources of most of our research projects.
+This is the official account of GeWu-Lab. GeWu-Lab is a research group focusing on multimodal perception and learning, we will post/release the source code/resources of most of our research projects here. Expecting your star ⭐
 
 Nice To Meet You!
 
